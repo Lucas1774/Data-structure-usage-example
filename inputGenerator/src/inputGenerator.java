@@ -5,7 +5,7 @@ public class inputGenerator {
     public static void main (String []args) throws java.io.IOException {
         FileWriter file = new FileWriter("input.txt");
         PrintWriter pw = new PrintWriter(file);
-        int N = 5;
+        int N = 5000;
         int m = N;
         for (int i=0; i < N; i++) {
             m--;
