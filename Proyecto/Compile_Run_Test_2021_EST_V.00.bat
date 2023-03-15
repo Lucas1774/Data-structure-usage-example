@@ -7,7 +7,7 @@ REM === Inputs ===
 set SRC_DIR=%cd%\src
 set BIN_DIR=\bin
 set MAIN=es/uned/lsi/eped/pract2020_2021/Main
-set JAVA_HOME_JDK="C:\Program Files\Java\jdk-16.0.1"
+set JAVA_HOME_JDK="C:\Program Files\Java\jdk-17"
 set TMP_FOLDER=%cd%\juego_de_pruebas_2021\tmp
 
 IF %JAVA_HOME_JDK%=="" (
